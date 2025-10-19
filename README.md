@@ -1,1 +1,1 @@
-# CEPerFed-Communication-Efficient-Personalized-Federated-Learning-for-Multi-Pulse-MRI-Classification
+# CEPerFed: Communication Efficient Personalized Federated Learning for Multi Pulse MRI Classification
